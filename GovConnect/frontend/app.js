@@ -4,7 +4,7 @@
 // change this API_URL to your live API Gateway URL.
 // Example: const API_URL = "https://govconnect-gateway.onrender.com";
 // =========================================================
-const API_URL = "http://localhost:5000";
+const API_URL = "https://ukr-1-3.onrender.com";
 let currentActiveApplicationId = null;
 
 // ================================
